@@ -12,3 +12,20 @@ Nina da Hora é uma cientista da computação, pesquisadora e ativista brasileir
 
 ## Curiosidades e impacto
 Nina da Hora utiliza a tecnologia como ferramenta de transformação social. Seu trabalho ajuda a discutir os impactos da inteligência artificial na sociedade e a importância de desenvolver tecnologias mais justas e inclusivas.
+
+# O que aprendi sobre Git e GitHub
+
+## git init
+Inicializa um repositório Git.
+
+## git add .
+Adiciona arquivos para serem versionados.
+
+## git commit -m "mensagem"
+Salva as alterações no histórico.
+
+## git push
+Envia o projeto para o GitHub.
+
+## git pull
+Atualiza o projeto com alterações do GitHub.
