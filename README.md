@@ -14,7 +14,7 @@ Nina da Hora utiliza a tecnologia como ferramenta de transformação social. Seu
 
 # 💻 O que aprendi sobre Git e GitHub
 
-## $ git init
+### $ git init
 Inicializa um repositório Git.
 
 ## $ git add .
