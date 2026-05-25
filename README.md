@@ -17,14 +17,14 @@ Nina da Hora utiliza a tecnologia como ferramenta de transformação social. Seu
 ### $ git init
 Inicializa um repositório Git.
 
-## $ git add .
+### $ git add .
 Adiciona arquivos para serem versionados.
 
-## $ git commit -m "mensagem"
+### $ git commit -m "mensagem"
 Salva e rastreia as alterações no histórico.
 
-## $ git push
+### $ git push
 Envia as modificações do repositório local para o remoto, GitHub.
 
-## $ git pull
+### $ git pull
 Traz o projeto com alterações do repositório remoto, GitHub, para o local.
