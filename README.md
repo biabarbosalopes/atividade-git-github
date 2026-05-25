@@ -7,8 +7,7 @@ Nina da Hora é uma cientista da computação, pesquisadora e ativista brasileir
 - Tornou-se referência em tecnologia e inteligência artificial no Brasil;
 - Atua na defesa da diversidade e inclusão na tecnologia;
 - Participa de projetos e palestras sobre ética em inteligência artificial;
-- Incentiva a entrada de mulheres e pessoas negras na área da computação.
-- 
+- Incentiva a entrada de mulheres e pessoas negras na área da computação.  
 
 ## Curiosidades e impacto
 Nina da Hora utiliza a tecnologia como ferramenta de transformação social. Seu trabalho ajuda a discutir os impactos da inteligência artificial na sociedade e a importância de desenvolver tecnologias mais justas e inclusivas.
